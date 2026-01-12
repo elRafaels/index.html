@@ -1,0 +1,30 @@
+<!doctype html>
+<html> 
+ <head> 
+  <title>My info</title> 
+ </head> 
+ <body style="font-family: Arial; background-color: #f2f2f2;"> 
+  <h1 style="text-align: center;"> My firs wibesite </h1> 
+  <p style="text-align: center;"> ini wibesite pertama gwh ges jangan di hujat </p> 
+  <div style="
+    background-color: white;
+    width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+  "> 
+   <h2>Profil gwh</h2> 
+   <p><b>Nama:</b>Rafael siregar</p> 
+   <p><b>Hobi:</b>Main game dan taekwondo</p> 
+   <p><b>Cita Cita:</b>jadi programer dan atlet profesional</p> <button style="
+      padding: 8px 15px;
+      border: none;
+      border-radius: 8px;
+      background-color: lightblue;
+      cursor: pointer;
+    "> Kenalan yuk </button> 
+  </div> 
+  <p style="text-align: center; font-size: 12px;"> © 2026 Website Pertamaku </p> 
+ </body>
+</html>
